@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-ee
-=======
-relas
->>>>>>> relaes
-=======
-relas
->>>>>>> relaes
